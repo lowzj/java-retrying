@@ -2,7 +2,7 @@
 
 [![Build Status](https://travis-ci.org/lowzj/java-retrying.svg?branch=master)](https://travis-ci.org/lowzj/java-retrying)
 
-java retry组件, 支持同步/异步, 简单灵活可配, 不依赖第三方库.
+java重试, 支持同步/异步, 简单灵活可配, 不依赖第三方库.
 
 基于[guava-retrying](https://github.com/rholder/guava-retrying)改造, 增加了异步重试, 同时去掉了第三方依赖, 使用方法基本一致.
 
