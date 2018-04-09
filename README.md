@@ -1,6 +1,7 @@
 # java-retrying
 
 [![Build Status](https://travis-ci.org/lowzj/java-retrying.svg?branch=master)](https://travis-ci.org/lowzj/java-retrying)
+[![codecov](https://codecov.io/gh/lowzj/java-retrying/branch/master/graph/badge.svg)](https://codecov.io/gh/lowzj/java-retrying)
 
 java重试, 支持同步/异步, 简单灵活可配, 不依赖第三方库.
 
