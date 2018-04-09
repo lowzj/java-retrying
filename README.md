@@ -1,5 +1,6 @@
 # java-retrying
 
+[![License](https://img.shields.io/badge/License-Apache%202-brightgreen.svg)](https://github.com/lowzj/java-retrying/blob/master/LICENSE)
 [![Build Status](https://travis-ci.org/lowzj/java-retrying.svg?branch=master)](https://travis-ci.org/lowzj/java-retrying)
 [![codecov](https://codecov.io/gh/lowzj/java-retrying/branch/master/graph/badge.svg)](https://codecov.io/gh/lowzj/java-retrying)
 
