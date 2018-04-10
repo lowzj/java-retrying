@@ -1,6 +1,7 @@
 # java-retrying
 
 [![License](https://img.shields.io/badge/License-Apache%202-brightgreen.svg)](https://github.com/lowzj/java-retrying/blob/master/LICENSE)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Flowzj%2Fjava-retrying.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Flowzj%2Fjava-retrying?ref=badge_shield)
 [![Build Status](https://travis-ci.org/lowzj/java-retrying.svg?branch=master)](https://travis-ci.org/lowzj/java-retrying)
 [![codecov](https://codecov.io/gh/lowzj/java-retrying/branch/master/graph/badge.svg)](https://codecov.io/gh/lowzj/java-retrying)
 
@@ -70,3 +71,7 @@ private Callable<Integer> noRuntimeExceptionAfter(final int attemptNumber) {
     };
 }
 ```
+
+## LICENSE
+
+Java-retrying is licensed under the Apache License, Version 2.0. See [LICENSE](https://github.com/lowzj/java-retrying/blob/master/LICENSE) for the full license text.
