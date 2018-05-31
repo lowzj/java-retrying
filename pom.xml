@@ -6,7 +6,8 @@
     <artifactId>java-retrying</artifactId>
     <version>1.1-SNAPSHOT</version>
     <packaging>jar</packaging>
-    <description>java-retrying</description>
+    <name>java-retrying</name>
+    <description>A simple, flexible and configurable java retrying module</description>
     <url>https://github.com/lowzj/java-retrying</url>
 
     <scm>
