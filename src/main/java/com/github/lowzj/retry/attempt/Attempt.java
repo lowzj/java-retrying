@@ -21,7 +21,7 @@ import java.util.concurrent.ExecutionException;
 /**
  * An attempt of a call, which resulted either in a result returned by the call,
  * or in a Throwable thrown by the call.
- * <br/>
+ * <br>
  * copy from: git@github.com:rholder/guava-retrying.git
  *
  * @param <V> The type returned by the wrapped callable.

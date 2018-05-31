@@ -205,6 +205,7 @@ public final class WaitStrategies {
      *
      * @param function       function to calculate sleep time
      * @param exceptionClass class to calculate sleep time from
+     * @param <T> exception class
      * @return a wait strategy calculated from the failed attempt
      */
     public static <T extends Throwable> WaitStrategy exceptionWait(Class<T> exceptionClass,
