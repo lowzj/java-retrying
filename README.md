@@ -16,6 +16,14 @@ java-retrying | 大于等于8 | 无 | Y | Y
 
 ## Quickstart
 
+* 依赖
+```xml
+<dependency>
+    <groupId>com.github.lowzj</groupId>
+    <artifactId>java-retrying</artifactId>
+    <version>1.1</version>
+</dependency>
+```
 
 * 同步重试
 ```java
