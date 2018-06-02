@@ -21,7 +21,7 @@ java-retrying | 大于等于8 | 无 | Y | Y
 <dependency>
     <groupId>com.github.lowzj</groupId>
     <artifactId>java-retrying</artifactId>
-    <version>1.1</version>
+    <version>1.2</version>
 </dependency>
 ```
 
